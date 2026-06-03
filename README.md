@@ -20,3 +20,4 @@
 
 ## 图表预览
 ![游戏分析](game_analysis.png)
+![Tableau Dashboard](tableau_game_dashboard.png)
